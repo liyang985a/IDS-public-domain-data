@@ -54,4 +54,11 @@ The IoT-23 dataset consists of 23 network captures (referred to as scenarios) of
 
 Dataset link:https://mcfp.felk.cvut.cz/publicDatasets/IoT-23-Dataset/iot_23_datasets_small.tar.gz
 
+（11）ISCXIDS
+The ISCXIDS dataset is generated through a systematic method based on the concept of configuration files, which encompass detailed descriptions of intrusions and abstract distribution models of network entities. It aims to reflect the current composition of network traffic and intrusion scenarios, possessing modifiable, scalable, and reproducible characteristics. By simulating user behavior and diverse intrusion scenarios, it provides a realistic and comprehensive benchmark to assist researchers in testing, evaluating, and comparing intrusion detection systems.
+
+Dataset link: https://www.unb.ca/cic/datasets/ids.html
+
+
+
 
